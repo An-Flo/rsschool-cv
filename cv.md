@@ -9,7 +9,23 @@
 ![About Me](https://i.ibb.co/3fVv6Tw/aboutme-1.png "About Me") **About Me:** I'm a proud cat owner and on photo at the left you can see my pet Kapitoshka. He is a very good boy and last outumn he got FIP. It's a tought type of illness, and by far there is not so much information about treatment. First of all I want to create a website for pet parents who faced with FIP to chat and inform each other about any treatment news, so that's my personnal issue to start this course at RSS. I'm not a programmist and maybe i won't have enough time, but I'll do this anyway. Who knows, maybe this will bring me so much joy that i'll even want to change my work sphere.
 
 ![Skills](https://i.ibb.co/KGNygZk/Skills.png "Skills") **Skills:** a little bit of HTML, C++ and JavaScript
-> there will be a code. Once...
+
+```JS
+const treatInfo = (productName) => {
+switch (productName) {
+  case 'Neon':
+    return 'Good treatment, GS 19.5 mg/ml, 10ml';
+  case 'Lucky':
+    return 'Good treatment, GS 15 mg/ml, 5ml';
+  case 'Kitty Care':
+    return 'Good treatment, GS 15 mg/ml, 6,5ml';
+  case 'CoronaCat':
+    return 'Bad treatment, please choose another product as soon as possible';  
+  default:
+    return 'Undefined treatment, no info about GS concentration, please choose another product';
+}
+}
+```
 
 ![Experience](https://i.ibb.co/qyzCMfh/expirience.png "Experience") **Experience:**
 * HTML layout designer at Fandom Kombat
