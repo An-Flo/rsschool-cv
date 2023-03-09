@@ -1,10 +1,10 @@
 # Anastasia Mironova ![CV-photo](https://i.ibb.co/2SLrB0F/CV-photo-4.jpg "Anastasia Mironova")
 ## Pre-Junior Frontend developer
-| **Contact me** | |
-| :--- | :---: |
-| Location | Moscow, Russia |
-| WEB | f.mironova@gmail.com |
-| Discord RSS | Anastasia (@an-flo) |
+ **Contact me** | |
+ :--- | :---: |
+ Location | Moscow, Russia |
+ WEB | f.mironova@gmail.com |
+ Discord RSS | Anastasia (@an-flo) |
 
 ### ![About Me](https://i.ibb.co/3fVv6Tw/aboutme-1.png "About Me") About Me:
 I'm a proud cat owner and on photo at the left you can see my pet Kapitoshka. He is a very good boy and last outumn he got FIP. It's a tought type of illness, and by far there is not so much information about treatment. First of all I want to create a website for pet parents who faced with FIP to chat and inform each other about any treatment news, so that's my personnal issue to start this course at RSS. I'm not a programmist and maybe i won't have enough time, but I'll do this anyway. Who knows, maybe this will bring me so much joy that i'll even want to change my work sphere.
