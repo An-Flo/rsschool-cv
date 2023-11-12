@@ -33,5 +33,3 @@ A little bit of HTML, C++ and JavaScript
 1. English - B1-B2 (According to quick test at [EF](https://www.efset.org/ "EF"))
 2. Russian - native
 3. Spanish - A0-A1
-
-CHANGES1
