@@ -23,6 +23,7 @@ A little bit of HTML, C++ and JavaScript
 ### Experience:
 * HTML layout designer at Fandom Kombat
 * WordPress layout designer at [Punktum](http://punktum.ru/ "Punktum")
+* [CV](https://an-flo.github.io/rsschool-cv/cv "CV") at RS School
 
 ### Education:
 * MSU department of mechanics and mathematics, division of mathematics (got 3 and a half years of education)
