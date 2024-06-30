@@ -2,11 +2,10 @@
 ## Frontend developer
 
 ### Contact information:
- **Contact me** | |
- :--- | :---: |
- Location | Moscow, Russia |
- WEB | f.mironova@gmail.com |
- Discord RSS | Anastasia (@an-flo) |
+ **Contact me**
+* Location: Moscow, Russia
+* WEB:  f.mironova@gmail.com 
+* Discord RSS: Anastasia (@an-flo) 
 
 ### About Me:
 Hola! I'm at the beginning of my big journey to the land of Frontend. At my first attempt in RS School i can't get it done in time, but i'm full of strength to finish it now.
