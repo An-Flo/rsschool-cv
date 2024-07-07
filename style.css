@@ -16,13 +16,13 @@ body {
 }
 
 a {
-    color:brown;
+    color:rgb(3, 106, 10);
     text-decoration: none;
     transition: 0.3s;
 }
 
 a:hover {
-    color:rgb(171, 202, 14)
+    color:rgb(171, 202, 14);
 }
 
 @font-face {
@@ -36,15 +36,11 @@ a:hover {
 }
 
 .header {
-    background-color:rgb(6, 101, 50)
-}
-
-.main {
-    border: 1px solid rgb(14, 47, 167);
+    background-color:rgb(6, 101, 50);
 }
 
 .footer {
-    border: 1px solid rgb(50, 197, 21);
+    background-color:rgb(6, 101, 50);
 }
 
 .container {
@@ -76,10 +72,16 @@ a:hover {
 .main-container {
     display: flex;
     flex-wrap: wrap;
+    width: 95%;
   }
   
 .section {
     width: 50%;
+}
+
+.section ul {
+    padding-left: 0;
+    list-style: none;
 }
 
 @media (max-width: 768px) {
@@ -94,7 +96,7 @@ a:hover {
 
 .pre-style {
     background-color: rgb(194, 194, 194);
-    margin-left: 0px;
+    padding: 5px 0;
 }
 
 .footer-list {
@@ -107,13 +109,17 @@ a:hover {
 .footer-item {
     padding: 0 20px;
     line-height: 20px;
-    font-family: "Wittgenstein", serif;
+    font-family: "Oswald", serif;
     font-size: 12px;
     text-decoration: none;
     transition: 0.3s;
   }
 
-.footer-link:hover {
+.footer-list a {
+    color: rgb(0, 0, 0);
+}
+
+.footer-list a:hover {
     color: rgb(17, 200, 30);
 }
 
@@ -124,9 +130,31 @@ a:hover {
 #photo {
     display: flex;
     justify-content: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 #photo img {
     height: 200px;
+}
+
+#profile {
+    text-align: center;
+    padding: 60px;
+}
+
+#profile p {
+    color: grey;
+}
+
+#contacts {
+    border-top: 5px solid rgb(6, 101, 50);
+}
+
+#summary {
+    border-top: 5px solid rgb(6, 101, 50);
+}
+
+h2 {
+    padding-left: 5px;
+    font-family: "Oswald", serif;
 }
