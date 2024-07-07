@@ -56,4 +56,9 @@ p {
     color: blueviolet;
     font-size: 12px;
     text-decoration: none;
+    transition: 0.3s;
   }
+
+.nav-link:hover {
+    color: rgb(17, 200, 30);
+}
