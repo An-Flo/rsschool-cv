@@ -2,12 +2,15 @@
     box-sizing: border-box;
   }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     font-family: 'Roboto', sans-serif;
-    font-family: "Wittgenstein", serif;
     min-height: 100vh;
     margin: 0; padding: 0;
 }
@@ -34,8 +37,23 @@ p {
     border: 1px solid rgb(50, 197, 21);
 }
 
-.mainblock {
-    background-color: #1010a1;
-    width: 300px;
-    border-width: 5px;
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
 }
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    font-family: "Wittgenstein", serif;
+    color: blueviolet;
+    font-size: 12px;
+    text-decoration: none;
+  }
