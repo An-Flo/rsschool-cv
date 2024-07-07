@@ -88,6 +88,9 @@ a:hover {
     .section {
       width: 100%;
     }
+    .photo {
+        width: 100%;
+    }
 }
 
 .contacts-list {
@@ -127,13 +130,13 @@ a:hover {
     width: 20px;
 }
 
-#photo {
+.photo {
     display: flex;
     justify-content: center;
     padding: 20px;
 }
 
-#photo img {
+.photo img {
     height: 200px;
 }
 
