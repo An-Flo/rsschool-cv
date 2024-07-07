@@ -4,9 +4,12 @@
 
 body {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: space-between;
     font-family: 'Roboto', sans-serif;
     font-family: "Wittgenstein", serif;
+    min-height: 100vh;
+    margin: 0; padding: 0;
 }
 
 @font-face {
@@ -17,6 +20,18 @@ body {
 p {
     color: red;
     text-align: center;
+}
+
+.header {
+    border: 1px solid red;
+}
+
+.main {
+    border: 1px solid rgb(14, 47, 167);
+}
+
+.footer {
+    border: 1px solid rgb(50, 197, 21);
 }
 
 .mainblock {
