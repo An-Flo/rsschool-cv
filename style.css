@@ -1,15 +1,17 @@
 body {
     display: flex;
     justify-content: center;
-}
-
-div {
-    background-color: #111;
-    width: 300px;
-    border-width: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-family: "Wittgenstein", serif;
 }
 
 p {
     color: red;
     text-align: center;
+}
+
+.mainblock {
+    background-color: #1010a1;
+    width: 300px;
+    border-width: 5px;
 }
