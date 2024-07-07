@@ -20,11 +20,6 @@ body {
     src: url("assets/fonts/Wittgenstein-Italic-VariableFont_wght.ttf");
   }
 
-p {
-    color: red;
-    text-align: center;
-}
-
 .header {
     border: 1px solid red;
 }
@@ -61,4 +56,13 @@ p {
 
 .nav-link:hover {
     color: rgb(17, 200, 30);
+}
+
+.contacts-list {
+    list-style: none;
+}
+
+.pre-style {
+    background-color: rgb(194, 194, 194);
+    margin-left: 0px;
 }
