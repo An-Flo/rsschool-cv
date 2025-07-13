@@ -67,8 +67,12 @@ a:hover {
     transition: 0.3s;
   }
 
+  .avatar {
+    width: 100%;
+  }
+
   .logo {
-    width: 40%;
+    width: 100%;
   }
 
   .main-container {
